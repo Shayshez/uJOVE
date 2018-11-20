@@ -11,6 +11,8 @@ uJuve is exactly the same circuit as the original 14 hp Juve with the same amazi
 
 1. When no jack is plugged in to input 2 Positive feedback from the output to input 2 is activated. the feedback level can be controlled by LEVEL 2 knob.
 2. Input 2 level knob can add 6dB of gain, 0dB on the middle, +6dB (clipping) when fully clockwise. 
+
+
 4 Leds of the original 14 hp Jove replaced by one RGB Led
 Modes colours:
 RED - LP24 , ORANGE - LP12 , BLUE - BP , GREEN - HP
