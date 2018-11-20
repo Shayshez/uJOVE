@@ -14,6 +14,7 @@ uJuve is exactly the same circuit as the original 14 hp Juve with the same amazi
 
 
 4 Leds of the original 14 hp Jove replaced by one RGB Led
+
 Modes colours:
 RED - LP24 , ORANGE - LP12 , BLUE - BP , GREEN - HP
 
