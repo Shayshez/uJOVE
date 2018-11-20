@@ -13,13 +13,17 @@ uJuve is exactly the same circuit as the original 14 hp Juve with the same amazi
 2. Input 2 level knob can add 6dB of gain, 0dB on the middle, +6dB (clipping) when fully clockwise. 
 4 Leds of the original 14 hp Jove replaced by one RGB Led
 Modes colours:
-RED - LP24 
-ORANGE - LP12
-BLUE - BP
-GREEN - HP
+RED - LP24 , ORANGE - LP12 , BLUE - BP , GREEN - HP
+
+
 uJove will be available only as DIY project, soon at Pusherman and eurorack DIY stores.
 
 [![uJove at YouTube](https://github.com/Shayshez/uJOVE/blob/master/YouTube.png)](https://youtu.be/qpCmzDNtNPw)
+
 ![Image of uJOVE](https://github.com/Shayshez/uJOVE/blob/master/uJove_pr_s.png)
+
+
 ![Image of uJOVE](https://github.com/Shayshez/uJOVE/blob/master/uJOVE5T.png)
+
+
 ![Image of uJOVE](https://github.com/Shayshez/uJOVE/blob/master/uJOVE5B.png)
