@@ -1,5 +1,5 @@
 # uJOVE
-# CC-NC-SA 4.0
+# CC BY-NC-SA 4.0
 ## Micro version of JOVE - Multimode filter, originally by System 80
 Plum Audio uJove is 8hp version of Jove - Multimode filter By System 80 that is inspired by the Roland Jupiter 6 filter.
 
