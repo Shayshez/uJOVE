@@ -19,7 +19,7 @@ Modes colours:
 RED - LP24 , ORANGE - LP12 , BLUE - BP , GREEN - HP
 
 
-uJove will be available only as DIY project, soon at Pusherman and eurorack DIY stores.
+uJove is available only as DIY project, for pcb's and panels: https://pushermanproductions.com/product/plum-audio-ujove-pcb-and-8hp-aluminium-panel/
 
 [![uJove at YouTube](https://github.com/Shayshez/uJOVE/blob/master/YouTube.png)](https://youtu.be/qpCmzDNtNPw)
 
