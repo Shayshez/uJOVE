@@ -21,6 +21,17 @@ uJuve is exactly the same circuit as the original 14 hp Juve with the same amazi
 Modes colours:
 RED - LP24 , ORANGE - LP12 , BLUE - BP , GREEN - HP
 
+### About Positive Feedback:
+Resonance = inverted feedback 
+
+Positive feedback should distort the signal.
+
+In LP2/4 modes (red/orange) the positive feedback alone can make pulses.
+
+it’s better to mix between positive and negative feedback to achieve distorted worm sound.
+Also try to use input 2 in LP modes and the positive feedback become clipper (attenuation until middle position of the knob and clipping from middle position)
+
+The positive feedback sounds much better in BP/HP modes (blue/green) to achive great distortion.
 
 uJove is available only as DIY project, for pcb's and panels: https://pushermanproductions.com/product/plum-audio-ujove-pcb-and-8hp-aluminium-panel/
 
