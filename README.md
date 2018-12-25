@@ -35,6 +35,8 @@ The positive feedback sounds much better in BP/HP modes (blue/green) to achive g
 
 uJove is available only as DIY project, for pcb's and panels: https://pushermanproductions.com/product/plum-audio-ujove-pcb-and-8hp-aluminium-panel/
 
+Assembling Video (Part 1): https://www.youtube.com/watch?v=_F6PMT1OO5I
+
 [![uJove at YouTube](https://github.com/Shayshez/uJOVE/blob/master/YouTube.png)](https://youtu.be/qpCmzDNtNPw)
 
 ![Image of uJOVE](https://github.com/Shayshez/uJOVE/blob/master/uJove_pr_s.png)
