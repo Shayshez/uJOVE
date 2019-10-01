@@ -4,6 +4,8 @@
 ## Warning for DIY beginners - this project is a hard to build with dense PCB and low pitch ic's which requires experience in SMD soldering.
 ### If you care about this project - DO NOT SELL ASSEMBLED MODULES, Build only for your own use!
 
+Interactive BOM: http://diy.plum-audio.com/projects/uJove/iBom/
+
 Plum Audio uJove is 8hp version of Jove - Multimode filter By System 80 that is inspired by the Roland Jupiter 6 filter.
 
 uJuve is exactly the same circuit as the original 14 hp Juve with the same amazing sound. 
